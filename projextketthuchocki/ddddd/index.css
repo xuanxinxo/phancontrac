@@ -1,0 +1,57 @@
+.btn-primary{
+    background: rgb(223, 219, 216);
+    font-size: 20px;
+    border: 3px solid #070606;
+    border-radius: 15px;
+}
+.btn-primary:hover{
+    color: #d8a67d;
+    background-color: #da4e17;
+}
+
+.submit{
+    padding-left: 75%;
+    
+}
+.head{
+    display: grid;
+    padding-left:20% ;
+}
+.contrac{
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+.information{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    border-radius: 10px;
+    border: 9px solid #ce6045;
+    background-color: rgb(235, 230, 234);
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+#txt1,#gmail,#phonen,#address,#txt2{
+    
+    border: 5px solid white ;
+    height: 40px;
+    width: 90%;
+    border-radius: 1px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    
+}
+.name-head{
+   
+    font-size: 40px;
+   
+}
+.infomation-left{
+     color: #da4e17;
+}
+
